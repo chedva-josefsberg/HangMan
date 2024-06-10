@@ -8,7 +8,7 @@ Welcome to the Hangman Game! This is a simple text-based implementation of the c
 - [Installation](#installation)
 - [Usage](#usage)
 - [How to Play](#how-to-play)
-- 
+
 ## Description 📄
 
 This Hangman game selects a random word from a predefined list and displays a series of underscores representing the hidden letters of the word. Players must guess the word by suggesting letters within a limited number of attempts. For every incorrect guess, a part of the hangman is drawn. The game ends when the player either correctly guesses the word or the hangman drawing is completed.
