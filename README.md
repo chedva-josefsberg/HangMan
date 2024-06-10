@@ -71,15 +71,6 @@ Make a guess:
 - Only single letter guesses are allowed.
 - If you guess a letter you already guessed, you'll be prompted to try a different letter.
 
-## Contributing 🤝
-
-Contributions are welcome! If you would like to improve this game or fix any issues, feel free to fork the repository and submit a pull request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
-3. Commit your Changes (`git commit -m 'Add some YourFeature'`)
-4. Push to the Branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
 
 ## License ⚖️
 
