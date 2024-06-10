@@ -8,9 +8,7 @@ Welcome to the Hangman Game! This is a simple text-based implementation of the c
 - [Installation](#installation)
 - [Usage](#usage)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Description 📄
 
 This Hangman game selects a random word from a predefined list and displays a series of underscores representing the hidden letters of the word. Players must guess the word by suggesting letters within a limited number of attempts. For every incorrect guess, a part of the hangman is drawn. The game ends when the player either correctly guesses the word or the hangman drawing is completed.
@@ -72,10 +70,5 @@ Make a guess:
 - If you guess a letter you already guessed, you'll be prompted to try a different letter.
 
 
-## License ⚖️
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 Replace `your-username` with your actual GitHub username in the clone command, and make sure to include a `LICENSE` file if you want to distribute the project under a specific license.
